@@ -17,8 +17,8 @@ telescope.setup {
         ["<C-n>"] = actions.cycle_history_next,
         ["<C-p>"] = actions.cycle_history_prev,
 
-        ["<C-j>"] = actions.move_selection_next,
-        ["<C-k>"] = actions.move_selection_previous,
+        ["<C-k>"] = actions.move_selection_next,
+        ["<C-l>"] = actions.move_selection_previous,
 
         ["<C-c>"] = actions.close,
 
@@ -56,11 +56,11 @@ telescope.setup {
         ["<C-q>"] = actions.send_to_qflist + actions.open_qflist,
         ["<M-q>"] = actions.send_selected_to_qflist + actions.open_qflist,
 
-        ["j"] = actions.move_selection_next,
-        ["k"] = actions.move_selection_previous,
-        ["H"] = actions.move_to_top,
+        ["k"] = actions.move_selection_next,
+        ["l"] = actions.move_selection_previous,
+        ["J"] = actions.move_to_top,
         ["M"] = actions.move_to_middle,
-        ["L"] = actions.move_to_bottom,
+        ["Ö"] = actions.move_to_bottom,
 
         ["<Down>"] = actions.move_selection_next,
         ["<Up>"] = actions.move_selection_previous,
@@ -77,13 +77,4 @@ telescope.setup {
       },
     },
   },
-  -- pickers = {
-    -- Default configuration for builtin pickers goes here:
-    -- picker_name = {
-    --   picker_config_key = value,
-    --   ...
-    -- }
-    -- Now the picker_config_key will be applied every time you call this
-    -- builtin picker
-  -- },
-}
+  }
