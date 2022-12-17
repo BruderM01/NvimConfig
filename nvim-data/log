@@ -1,0 +1,422 @@
+ERR 2022-12-10T13:43:33.987 nvim.19588.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T13:50:45.316 nvim.15944.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T13:50:51.324 nvim.17112.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T13:51:54.184 nvim.19824.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T13:52:18.759 nvim.17728.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T14:02:03.919 nvim.7812.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T14:04:41.713 nvim.11992.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T14:06:21.203 nvim.21116.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:35:52.030 nvim.20980.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:42:51.229 nvim.948.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:43:35.378 nvim.15512.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:44:03.279 nvim.2836.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:44:23.021 nvim.916.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:48:00.954 nvim.4364.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:52:11.124 nvim.1800.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:54:18.139 nvim.15928.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T16:59:04.794 nvim.8272.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:01:12.026 nvim.4984.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:10:54.931 nvim.19360.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:19:02.319 nvim.6176.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:26:44.565 nvim.488.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:27:24.726 nvim.10852.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:28:01.295 nvim.15392.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:28:17.542 nvim.21132.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:31:20.374 nvim.19780.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:36:02.354 nvim.14328.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:45:02.748 nvim.15032.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:49:24.563 nvim.10852.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:50:16.635 nvim.11928.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:50:49.466 nvim.17604.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T17:51:16.407 nvim.21304.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-10T18:23:31.992 nvim.19764.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T08:25:41.821 nvim.14240.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T08:26:22.358 nvim.11876.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T08:27:51.652 nvim.13844.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T08:35:34.859 nvim.15916.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T08:35:44.160 nvim.11564.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T08:38:05.932 nvim.14584.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T09:09:47.797 nvim.10836.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T09:10:32.368 nvim.11284.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T09:11:15.209 nvim.8316.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T09:12:05.585 nvim.14476.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T09:23:17.585 nvim.8188.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T09:24:06.321 nvim.14224.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T11:43:15.614 nvim.2224.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T11:44:38.340 nvim.1608.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T11:53:32.519 nvim.1888.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T11:53:46.567 nvim.5876.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:01:46.140 nvim.8732.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:04:21.261 nvim.10812.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:36:49.665 nvim.17900.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:37:36.492 nvim.16240.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:38:33.991 nvim.18940.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:39:27.913 nvim.15212.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T12:53:21.473 nvim.16228.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:04:38.078 nvim.6252.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:05:12.265 nvim.16864.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:11:11.682 nvim.12236.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:13:01.096 nvim.18400.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:17:59.408 nvim.19044.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:27:21.925 nvim.6824.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:28:41.253 nvim.492.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:28:56.141 nvim.18844.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:29:34.181 nvim.17140.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:29:49.430 nvim.13676.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:31:42.539 nvim.18072.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:32:02.108 nvim.16944.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:34:26.549 nvim.16884.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:35:38.237 nvim.18172.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:48:40.797 nvim.11836.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T13:49:07.985 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:17.202 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:17.292 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:17.361 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:18.631 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:24.972 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:25.289 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:25.327 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:49:25.439 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:57:39.156 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:57:39.197 nvim.11836.0 decor_provider_invoke:38: error in provider treesitter/highlighter:line: Error executing lua: ...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: query: invalid node type at position 2765 for language vim
+stack traceback:
+	[C]: in function '_ts_parse_query'
+	...im-win64\share\nvim\runtime/lua/vim/treesitter/query.lua:219: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:36: in function 'new'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:160: in function 'get_query'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:182: in function 'fn'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:210: in function 'for_each_tree'
+	...4\share\nvim\runtime/lua/vim/treesitter/languagetree.lua:214: in function 'for_each_tree'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:168: in function 'on_line_impl'
+	...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:240: in function <...64\share\nvim\runtime/lua/vim/treesitter/highlighter.lua:234>
+ERR 2022-12-11T13:57:45.472 nvim.12384.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T14:07:59.856 nvim.20500.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T14:08:24.983 nvim.18588.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:23:36.337 nvim.24488.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:31:23.751 nvim.13452.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:33:06.910 nvim.4904.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:33:48.123 nvim.13648.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:39:46.103 nvim.1128.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:44:35.147 nvim.21016.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:49:10.115 nvim.24540.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:49:56.135 nvim.6652.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:50:27.895 nvim.12040.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:51:05.461 nvim.15900.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:52:12.743 nvim.21848.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:56:30.976 nvim.18952.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:58:51.208 nvim.4624.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T15:59:45.744 nvim.9796.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:01:05.948 nvim.17196.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:05:16.625 nvim.24440.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:05:40.125 nvim.22812.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:23:35.288 nvim.18388.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:49:45.401 nvim.16000.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:51:43.635 nvim.21496.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:54:42.174 nvim.15876.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T16:57:11.378 nvim.19472.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:14:02.024 nvim.20180.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:19:09.643 nvim.23072.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:21:00.422 nvim.8856.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:21:43.786 nvim.14328.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:26:44.919 nvim.22788.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:26:54.357 nvim.23764.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:30:29.250 nvim.24084.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:30:42.647 nvim.18204.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T17:51:33.265 nvim.1372.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T18:30:37.054 nvim.13624.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T20:54:43.065 nvim.14952.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T21:40:41.067 nvim.10360.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T21:41:09.615 nvim.4244.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T21:41:16.673 nvim.1528.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T22:05:37.190 nvim.8372.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-11T22:07:58.390 nvim.1728.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T11:50:41.293 nvim.8460.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:00:05.470 nvim.10700.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:01:22.255 nvim.10520.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:01:34.781 nvim.10476.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:15:02.626 nvim.10276.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:30:45.175 nvim.10476.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:39:41.551 nvim.13252.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T12:59:36.516 nvim.8776.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:08:03.932 nvim.15348.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:11:45.580 nvim.10632.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:13:06.055 nvim.1896.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:13:44.607 nvim.6776.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:14:30.304 nvim.15564.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:16:05.282 nvim.16724.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:19:01.048 nvim.15920.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:19:44.407 nvim.6516.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:21:43.418 nvim.2176.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:22:11.774 nvim.15688.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:32:31.205 nvim.12476.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:33:59.296 nvim.14644.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T13:40:38.392 nvim.14820.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:30:54.076 nvim.18612.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:33:51.478 nvim.8672.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:34:15.666 nvim.18680.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:34:49.306 nvim.15768.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:35:24.407 nvim.17396.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:36:11.574 nvim.18576.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:37:48.845 nvim.12276.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:51:36.225 nvim.16712.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:53:08.079 nvim.19756.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T15:56:05.078 nvim.20000.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T19:09:54.646 nvim.1576.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T19:12:23.501 nvim.8304.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T19:18:02.733 nvim.15480.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T19:19:28.058 nvim.4124.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T19:20:09.716 nvim.22632.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T21:36:58.989 nvim.17156.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T21:44:57.907 nvim.1088.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T21:45:17.400 nvim.11900.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T21:49:28.184 nvim.7184.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T21:51:27.134 nvim.13876.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T21:54:46.211 nvim.21676.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:01:17.609 nvim.6004.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:03:06.352 nvim.19988.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:04:19.919 nvim.14812.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:07:07.757 nvim.22460.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:08:06.532 nvim.13624.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:08:53.823 nvim.20856.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:10:42.605 nvim.22476.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:12:04.277 nvim.1948.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:12:48.828 nvim.4988.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:13:15.035 nvim.7832.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:13:33.219 nvim.10292.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:13:50.450 nvim.11976.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:16:25.938 nvim.12392.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:17:17.019 nvim.18124.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:19:28.912 nvim.8864.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:26:21.445 nvim.20348.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:30:35.618 nvim.12600.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:35:27.426 nvim.23484.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:40:50.470 nvim.19492.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-12T22:43:47.412 nvim.10020.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:03:46.735 nvim.1584.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:06:05.958 nvim.356.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:07:47.402 nvim.6288.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:13:34.656 nvim.11480.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:28:53.736 nvim.12204.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:30:19.797 nvim.14152.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T09:31:01.671 nvim.1748.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T11:25:48.890 nvim.14940.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T12:56:44.238 nvim.14124.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T13:34:10.071 nvim.18924.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T13:37:37.249 nvim.18368.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T13:38:36.583 nvim.18636.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T14:47:59.882 nvim.15568.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T14:49:34.092 nvim.14900.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T14:50:00.447 nvim.18304.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:15:21.949 nvim.18608.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:15:39.480 nvim.1104.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:16:19.018 nvim.11384.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:17:44.119 nvim.12444.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:18:15.203 nvim.16692.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:20:53.395 nvim.4068.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:22:22.484 nvim.8128.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:23:05.237 nvim.15832.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:24:45.065 nvim.10656.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:34:34.929 nvim.12108.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:43:19.510 nvim.18712.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:44:09.454 nvim.9856.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:44:19.737 nvim.8364.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:44:32.441 nvim.4672.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:44:47.576 nvim.15904.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T16:55:36.862 nvim.15904.0/c terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:07:15.446 nvim.18440.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:07:28.212 nvim.17340.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:11:22.095 nvim.13016.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:11:34.514 nvim.18764.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:12:20.727 nvim.2580.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:12:43.435 nvim.8236.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:12:48.393 nvim.12132.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:12:53.279 nvim.11976.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:14:59.077 nvim.18648.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:19:26.235 nvim.5960.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:28:38.260 nvim.9720.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:28:55.825 nvim.12940.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:29:14.701 nvim.396.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:30:17.332 nvim.12028.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:30:52.489 nvim.3920.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:31:32.357 nvim.11280.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:58:08.391 nvim.16676.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:59:14.976 nvim.8164.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T17:59:51.885 nvim.12016.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T18:01:13.439 nvim.6280.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T18:16:00.473 nvim.3560.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:27:56.002 nvim.4268.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:28:38.659 nvim.17476.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:31:30.937 nvim.9000.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:32:07.175 nvim.18572.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:39:41.369 nvim.18372.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:49:39.122 nvim.5016.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:52:11.474 nvim.2984.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:58:27.387 nvim.7984.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T21:58:55.554 nvim.17780.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T22:00:14.993 nvim.6592.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T22:01:55.149 nvim.12084.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T22:03:36.757 nvim.17876.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T22:06:27.419 nvim.1344.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-13T22:17:00.738 nvim.5004.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-15T17:08:16.810 nvim.12628.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-15T22:13:34.374 nvim.6832.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-15T22:15:09.435 nvim.15168.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-15T22:16:08.362 nvim.10684.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-15T22:20:36.668 nvim.9160.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-15T22:21:04.418 nvim.5488.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:11:04.155 nvim.2352.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:25:43.804 nvim.3060.0 chan_close_with_error:582: RPC: ch 1: stream write failed. RPC canceled; closing channel
+ERR 2022-12-16T20:25:48.217 nvim.1304.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:28:27.938 nvim.16784.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T20:29:19.057 nvim.16784.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+WRN 2022-12-16T20:30:17.439 nvim.15772.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T20:35:22.974 nvim.11508.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:36:25.655 nvim.8652.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:40:02.685 nvim.7652.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:41:27.683 nvim.8284.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:43:00.888 nvim.11904.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:45:58.124 nvim.14520.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:46:34.134 nvim.9744.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T20:47:12.237 nvim.9744.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T20:48:30.470 nvim.12152.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:57:29.792 nvim.4688.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:57:50.039 nvim.15080.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:58:05.561 nvim.14004.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:58:48.385 nvim.1116.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T20:58:58.303 nvim.2896.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+ERR 2022-12-16T21:00:38.006 nvim.11796.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T21:00:38.159 nvim.11796.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T21:09:38.323 nvim.11272.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T21:09:38.472 nvim.11272.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T21:13:05.809 nvim.8848.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T21:13:05.957 nvim.8848.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T21:16:18.592 nvim.5376.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T21:16:18.740 nvim.5376.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T22:13:33.593 nvim.1068.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T22:13:33.755 nvim.1068.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T22:16:01.842 nvim.16376.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T22:16:01.990 nvim.16376.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T22:19:02.201 nvim.18060.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T22:19:02.349 nvim.18060.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T22:23:17.593 nvim.13744.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T22:23:17.741 nvim.13744.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T22:26:54.373 nvim.3516.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T22:26:54.521 nvim.3516.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-16T22:27:59.560 nvim.7924.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-16T22:27:59.707 nvim.7924.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T10:05:34.198 nvim.16908.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-17T10:05:34.486 nvim.16908.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T10:05:43.936 nvim.15560.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-17T10:05:44.085 nvim.15560.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T10:05:57.160 nvim.12124.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-17T10:05:57.310 nvim.12124.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T10:06:02.849 nvim.6400.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-17T10:06:02.999 nvim.6400.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+WRN 2022-12-17T10:53:52.593 nvim.3464.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T10:58:14.679 nvim.3464.0 chan_close_with_error:582: RPC: ch 1: stream write failed. RPC canceled; closing channel
+WRN 2022-12-17T10:58:42.636 nvim.19920.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T11:50:00.127 nvim.19920.0 chan_close_with_error:582: RPC: ch 1: stream write failed. RPC canceled; closing channel
+WRN 2022-12-17T11:50:07.057 nvim.5628.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+WRN 2022-12-17T11:54:32.496 nvim.20292.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
+ERR 2022-12-17T12:52:27.910 nvim.17976.0 terminfo_start:359: uv_tty_set_mode failed: invalid argument
+WRN 2022-12-17T12:52:28.064 nvim.17976.0 ga_set_growsize:66: trying to set an invalid ga_growsize: 0
