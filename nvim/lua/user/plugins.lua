@@ -38,10 +38,6 @@ return packer.startup(function(use)
 	use 'SirVer/ultisnips'
 	use 'honza/vim-snippets'
 	
-	--autopairs
-	use {'windwp/nvim-autopairs',
-  config = function() require("nvim-autopairs").setup {} end
-  } 
 	--Colorschemes
 	use { "ellisonleao/gruvbox.nvim" }
 	

@@ -36,3 +36,5 @@ for k, v in pairs(option) do
 end
 vim.opt.shortmess:append "c"
 
+--Spelling
+vim.cmd("setlocal spell spelllang=en,de_20")
