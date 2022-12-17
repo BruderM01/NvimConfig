@@ -1,6 +1,0 @@
-[INFO  11.12.2022 12:53:21] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:119: Executing installer for Package(name=lua-language-server)
-[INFO  11.12.2022 12:53:21] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:119: Executing installer for Package(name=pyright)
-[INFO  11.12.2022 12:53:21] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:119: Executing installer for Package(name=json-lsp)
-[ERROR 11.12.2022 13:03:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:155: Installation failed for Package(name=pyright) error=spawn: npm.cmd failed with exit code - and signal -. npm.cmd is not executable
-[ERROR 11.12.2022 13:03:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:155: Installation failed for Package(name=json-lsp) error=spawn: npm.cmd failed with exit code - and signal -. npm.cmd is not executable
-[ERROR 11.12.2022 13:03:35] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:155: Installation failed for Package(name=lua-language-server) error=spawn: pwsh failed with exit code - and signal -. pwsh is not executable
